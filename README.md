@@ -19,7 +19,12 @@ A simple Notepad-like desktop application built using Python Tkinter.
    python app.py
 
 ## Screenshots
-(Add screenshot here)
+
+### Main Interface
+![Main Screen](2.jpeg)
+
+### File Open / Editing
+![Editing Screen](1.jpeg)
 
 ## Author
 Akanksha Kumari
